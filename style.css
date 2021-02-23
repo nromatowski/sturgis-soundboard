@@ -1,0 +1,72 @@
+body {
+  background-image: url("sturgisbg.png");
+  background-size: cover;
+  align-items: center;
+}
+
+.button1 {
+  position: absolute;
+  top: 5rem;
+  font-size: 20px;
+}
+.button2 {
+  top: 10rem;
+  position: absolute;
+  font-size: 20px;
+}
+.button3 {
+  top: 15rem;
+  position: absolute;
+  font-size: 20px;
+}
+.button4 {
+  top: 20rem;
+  position: absolute;
+  font-size: 20px;
+}
+.button5 {
+  top: 25rem;
+  position: absolute;
+  font-size: 20px;
+}
+.button6 {
+  top: 30rem;
+  position: absolute;
+  font-size: 20px;
+}
+.button7 {
+  position: absolute;
+  top: 5rem;
+  left: 10rem;
+  font-size: 20px;
+}
+.button8 {
+  top: 10rem;
+  left: 10rem;
+  position: absolute;
+  font-size: 20px;
+}
+.button9 {
+  top: 15rem;
+  left: 10rem;
+  position: absolute;
+  font-size: 20px;
+}
+.button10 {
+  top: 20rem;
+  left: 10rem;
+  position: absolute;
+  font-size: 20px;
+}
+.button11 {
+  top: 25rem;
+  left: 10rem;
+  position: absolute;
+  font-size: 20px;
+}
+.button12 {
+  top: 30rem;
+  left: 10rem;
+  position: absolute;
+  font-size: 20px;
+}
