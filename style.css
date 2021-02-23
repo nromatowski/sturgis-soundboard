@@ -74,3 +74,8 @@ body {
   font-size: 50px;
   background-image: url("formulathrottle.png");
 }
+.button13 {
+  top: 34rem;
+  position: absolute;
+  font-size: 20px;
+}
