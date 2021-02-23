@@ -3,6 +3,10 @@ body {
   background-size: cover;
   align-items: center;
 }
+.ytlink {
+  position: absolute;
+  color: red;
+}
 
 .button1 {
   position: absolute;
